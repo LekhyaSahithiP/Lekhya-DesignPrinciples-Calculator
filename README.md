@@ -4,4 +4,4 @@ Lekhya Epam Design principles task
 
 * Implement Layered Architecture
 
-* Implement SOLID, KISS, DRY, YAGNI principles
+* Implement SOLID, KISS, DRY, YAGNI principles.
